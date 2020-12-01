@@ -1,0 +1,9 @@
+Spajanje 1. i 2. kraka:
+ Potrebe:
+ -mora bit spojen sa dva ležaja
+ -mora bit spojen s pomiènim krakom
+ -mora bit direktno ili indirektno spojen s balans trokutom
+  Opcije:
+  -smješten u sredini prvog kraka
+  -na ljevom kraju prvog kraka
+  -desni dio u sredini a lijevi na kraju prvog kraka
